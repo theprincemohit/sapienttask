@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sapienttask/static/css/main.02c38f73.chunk.css",
+    "main.js": "/sapienttask/static/js/main.1785e92d.chunk.js",
+    "main.js.map": "/sapienttask/static/js/main.1785e92d.chunk.js.map",
+    "runtime-main.js": "/sapienttask/static/js/runtime-main.767185df.js",
+    "runtime-main.js.map": "/sapienttask/static/js/runtime-main.767185df.js.map",
+    "static/js/2.1da364e6.chunk.js": "/sapienttask/static/js/2.1da364e6.chunk.js",
+    "static/js/2.1da364e6.chunk.js.map": "/sapienttask/static/js/2.1da364e6.chunk.js.map",
+    "static/js/3.9b537737.chunk.js": "/sapienttask/static/js/3.9b537737.chunk.js",
+    "static/js/3.9b537737.chunk.js.map": "/sapienttask/static/js/3.9b537737.chunk.js.map",
+    "index.html": "/sapienttask/index.html",
+    "static/css/main.02c38f73.chunk.css.map": "/sapienttask/static/css/main.02c38f73.chunk.css.map",
+    "static/js/2.1da364e6.chunk.js.LICENSE.txt": "/sapienttask/static/js/2.1da364e6.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/sapienttask/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.767185df.js",
+    "static/js/2.1da364e6.chunk.js",
+    "static/css/main.02c38f73.chunk.css",
+    "static/js/main.1785e92d.chunk.js"
+  ]
+}
